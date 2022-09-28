@@ -1,4 +1,4 @@
-# zsh install with Oh My Zsh framework and Powerlevel10k theme
+# zsh installation with Oh My Zsh framework and Powerlevel10k theme
 
 1. Install zsh
 
